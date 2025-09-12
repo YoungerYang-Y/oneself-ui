@@ -24,3 +24,8 @@ pnpm-lock.yaml
 *.njsproj
 *.sln
 *.sw?
+
+# auto generated .d.ts
+src/types/auto-imports.d.ts
+src/types/components.d.ts
+src/types/typed-router.d.ts
