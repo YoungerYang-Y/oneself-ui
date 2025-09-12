@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/YoungerYang-Y/oneself-ui/compare/v1.0.0...v1.1.0) (2025-09-12)
+
+
+### Features
+
+* **stores:** 添加 Pinia状态管理库 ([593cf30](https://github.com/YoungerYang-Y/oneself-ui/commit/593cf30b70b0f42c8583ae4256d6aa5603d72181))
+
 # 1.0.0 (2025-09-12)
 
 
