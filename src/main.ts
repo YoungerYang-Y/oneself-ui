@@ -1,3 +1,4 @@
+import naive from 'naive-ui'
 import { setupLayouts } from 'virtual:generated-layouts'
 import { createApp } from 'vue'
 import { createRouter, createWebHistory } from 'vue-router'
@@ -16,4 +17,5 @@ createApp(App)
   .use(i18n as any)
   .use(router)
   .use(pinia)
+  .use(naive)
   .mount('#app')

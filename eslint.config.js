@@ -7,4 +7,9 @@ export default antfu({
     '.github/**',
     '.vscode/**',
   ],
+  rules: {
+    'no-console': ['warn', {
+      allow: ['log', 'warn', 'error'], // 允许常用的 console 方法
+    }],
+  },
 })
