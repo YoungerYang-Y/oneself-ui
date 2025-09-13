@@ -1,3 +1,12 @@
+# [1.2.0](https://github.com/YoungerYang-Y/oneself-ui/compare/v1.1.0...v1.2.0) (2025-09-13)
+
+
+### Features
+
+* **api:** 添加用户相关 API接口和请求方法 ([f9b1e82](https://github.com/YoungerYang-Y/oneself-ui/commit/f9b1e82fdfee2c9232826bcc1044ea1a3829491b))
+* **auth:** 添加用户认证功能并配置路由守卫 ([5fa4723](https://github.com/YoungerYang-Y/oneself-ui/commit/5fa4723b9bf2ba3fcfc27a2f769fc8f6b6b0a471))
+* **auth:** 重命名 auth store 并添加用户相关操作 ([1aea9f4](https://github.com/YoungerYang-Y/oneself-ui/commit/1aea9f40f294071c16707555c44f4e53867ca8b3))
+
 # [1.1.0](https://github.com/YoungerYang-Y/oneself-ui/compare/v1.0.0...v1.1.0) (2025-09-12)
 
 
