@@ -6,6 +6,11 @@ export const useUserStore = defineStore('auth', {
     token: '' as string,
     refreshToken: '' as string,
   }),
+  getters: {
+    isAuthenticated: (state) => {
+      return !!state.token
+    },
+  },
   actions: {
     setToken(token: string, refreshToken: string) {
       this.token = token
